@@ -8,8 +8,8 @@
 
 */
 import { useState } from "react"
-import AddNote from "../notes/Addnote"
-import NoteList from "../notes/NoteList"
+import AddNote from "../notes/AddNote.jsx"
+import NoteList from "../notes/NoteList.jsx"
 
 
 export default function Mainarea({ activeCategoryId, setActiveCategoryId }) {
