@@ -43,7 +43,7 @@ export default function Mainarea({ activeCategoryId, setActiveCategoryId }) {
             onClick={() => setIsAdding(true)}
             className="group fixed bottom-15 right-6 z-50 w-14 h-14 rounded-full bg-indigo-600 text-white text-3xl flex  items-center justify-center shadow-lg shadow-indigo-600/40  animate-pulse-slow hover:animate-none hover:scale-110 transition-all duration-300 ease-out"
           >
-            <img src="src\assets\icons8-plus-48.png" />
+            <img src="src\assets\AddNote.png"/>
           </button>
         )
       }
