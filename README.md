@@ -1,4 +1,4 @@
-# Notes App
+# The Bare Minimum Workspace
 
 A lightweight, React + Redux note-taking app with categories, pinning, search, sorting, and a theme system (light / dark / system). Built with Vite + Tailwind (Tailwind v4 + `@tailwindcss/vite`) — minimal dependencies, zero runtime theme libraries.
 
