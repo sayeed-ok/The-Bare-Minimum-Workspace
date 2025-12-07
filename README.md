@@ -1,23 +1,25 @@
 # The Bare Minimum Workspace
 
-A lightweight, React + Redux note-taking app with categories, pinning, search, sorting, and a theme system (light / dark / system). Built with Vite + Tailwind (Tailwind v4 + `@tailwindcss/vite`) — minimal dependencies, zero runtime theme libraries.
-
-## Quick summary
-- Local-first notes stored in Redux (persist to localStorage optional)
-- Categories, pinning, move-between-categories
-- Search, sort, pinned grouping, grid/list toggle
-- Full-note modal editor with autosave, keyboard shortcuts (Ctrl+S, Esc), and “last edited” timestamps
-- Theme switcher: `system | light | dark` (applies via `data-theme` on `<html>` and CSS variables)
-
+Bare Minimum Workspace is a minimal, glass-UI notes and categories manager built for speed, clarity, and absolutely no unnecessary drama.  
+Despite the name, it performs at **peak efficiency** — fast search, instant filtering, pinned notes, modal editing, and smooth UI transitions.
 ---
 
-## Tech stack
+## 🚀 Features  
+- 🔍 Real-time search + category filtering  
+- 📌 Pinning system for priority notes  
+- 🗂 Organized categories  
+- 📝 Clean modal editor with glass aesthetics  
+- 🎨 Dark translucent UI with subtle animations  
+- 📦 Powered by Redux Toolkit + Vite  
+- 🌐 Deploy-ready for Vercel
+---
+
+## 🛠 Tech stack
 - React (Vite)
 - Redux Toolkit
 - Tailwind CSS (v4) via `@tailwindcss/vite`
 - nanoid for IDs
 - JS utilities (no heavy date libs)
-
 ---
 
 ## Features
