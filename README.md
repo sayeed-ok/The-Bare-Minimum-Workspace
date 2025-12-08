@@ -6,6 +6,11 @@ Despite the name, it performs at **peak efficiency** — fast search, instant fi
 ### 🔗 Live Demo <br/>
  👉 https://bare-minimum-workspace.vercel.app/
 
+
+### Social Previews
+![Bare Minimum Workspace](public/og-banner.png)
+
+
 ### 📸 Preview
 ![App Preview](src/assets/app-preview.png)
 
